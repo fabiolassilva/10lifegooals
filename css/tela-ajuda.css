@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+}
+           
+.container-fluid{
+    background-color: #104E8B;
+}
+
+.navbar-expand-lg{
+    background-color: #104E8B;
+}
+            
+.navbar-header > .navbar-brand{
+    text-decoration: none;
+    font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+    margin: 35px;
+    margin-top: 40px;
+    font-size: 35px;
+    font-weight: 550;    
+    color: #fff;
+}
+
+.navbar-header > .navbar-brand :hover{
+    color: #fed136;
+}
+
+#menu{
+    list-style: none;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+           
+#menu li{
+    float: right;
+    width: 90px;
+    margin-top: 35px; 
+}
+            
+#menu li :hover{
+    color: #fed136;
+}
+
+#menu li a{
+    margin: 0;
+    text-decoration: none;
+    color: #fff;
+    font-size: 100%;
+    
+}
+
+#divPesquisa{
+     width: 320px;
+     margin-left: -150px;
+     margin-top: 55px;
+     float:left;
+     height:35px;  
+     margin-top: 45px;
+}
+
+#txtPesquisa{
+     padding-left:5px;
+     font-size:15px;    
+     height:32px;
+     width:250px;
+}
+
+#botao{
+     margin-left: 410px;
+    margin-top: -55px;
+}
+
+#btnPesquisa{
+     width: 20px;
+}
+            
+h1{
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin-top: 35px;
+    margin-left: 150px;
+    font-size: 20px;
+    color: black;
+}
+           
+p{
+   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;  
+   margin-left: 150px;
+   font-size: 19px; 
+   color: black;
+}
+           
+h2 a{
+   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   font-weight: 100;
+   margin-left: 200px;
+   font-size: 19px;
+}
+           
+a img{
+   width: 50px;
+   padding: 5px;
+   margin-left: 190px;
+   margin-top: -35px;
+}
+           
+textarea{
+   margin-left: 150px;
+   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   font-size: 15px;
+}
+          
+p img{
+   width: 400px;
+   padding: 5px;
+   margin-left: 700px;
+   margin-top: -150px;
+}
+           
+input{
+   font-size: 15px;
+   font-weight: 100;
+   margin-left: 150px;
+   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+           
+#pergunta1, #pergunta2, #pergunta3, #pergunta4, #pergunta5, #pergunta6, #pergunta7{
+   font-size: 18px;
+   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   margin-left: 200px;
+   margin-right: 250px;
+}
+            
+footer {
+   padding: 25px 0;
+   text-align: center;
+}
+
+footer span.hearts {
+   font-size: 90%;
+   line-height: 40px;
+   text-transform: none;
+   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+            
+#menuresponsivo{
+   font-size: 12px;
+   right: 0;
+   padding: 13px;
+   text-transform: uppercase;
+   color: white;
+   border: 0;
+   background-color: #4F94CD;
+   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
